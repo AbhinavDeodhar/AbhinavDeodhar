@@ -1,7 +1,7 @@
 Hi 👋, I'm Abhinav
 A DevOps Engineer From India with a year of experience.
 
-- 🔭 I’m currently working on [Dev-Ops-Learning Path](https://github.com/AbhinavDeodhar/DevOps-Learning-Path#devops-learning-path)
+- 🔭 I’m currently working on Devops Concepts
 
 - 🌱 I’m currently learning **HTML, Data Structure and Algorithm**
 
