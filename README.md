@@ -5,7 +5,7 @@ A DevOps Engineer From India with a year of experience.
 
 - 🌱 I’m currently learning **HTML, Data Structure and Algorithm**
 
-- 💬 Ask me about **DevOps, Life, Code.**
+- 💬 Ask me about **DevOps, Life and Meta-Physics.**
 
 - 📫 How to reach me **abhinav25497@gmail.com**
 
